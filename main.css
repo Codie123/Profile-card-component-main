@@ -32,7 +32,7 @@ p {
 }
 body {
   background: url(./images/bg-pattern-top.svg) no-repeat -241px -462px,
-    url(./images/bg-pattern-bottom.svg) no-repeat 955px 381px;
+    url(./images/bg-pattern-bottom.svg) no-repeat 708px 394px;
   background-size: 60%;
   font-size: var(--font_default);
   font-family: var(--font_family);
